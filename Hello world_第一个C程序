@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main(){
+
+    printf(" Hello World\n\n");
+    
+    printf(" I like you\n\n  3 6 0");
+    
+}
